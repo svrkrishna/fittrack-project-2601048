@@ -9,7 +9,7 @@ Total_Score_Achieved = int(input("Enter Total Score: "))
 # Computation
 Average_Score = Total_Score_Achieved / Games_Played
 # OutputDisplay
-print(f"\nPlayer:{Player_Name}")
-print(f"\nGames Played:{Games_Played}")
-print(f"\nTotal Score:{Total_Score_Achieved}")
-print(f"\nAvergae Score:{Average_Score}")
+print(f"\nPlayer: {Player_Name}")
+print(f"\nGames Played: {Games_Played}")
+print(f"\nTotal Score: {Total_Score_Achieved}")
+print(f"\nAverage Score: {Average_Score}")
